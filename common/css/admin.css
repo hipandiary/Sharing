@@ -1,0 +1,44 @@
+*{
+    padding: 0px;
+    margin: 0px;   
+}
+body{
+    /* background-image: url(/picture/background.JPG);
+    background-repeat: no-repeat; */
+    background-color: bisque;
+}
+.box{ width: 301px;margin-left: auto;margin-right: auto;margin-top: 200px;z-index:1;
+}
+.us,.pw{width: 300px;height: 50px;line-height: 35px;border-radius: 5px;border: none;-webkit-appearance: none;outline: none;font-size: 15px;margin-top: 20px;
+}
+.repw{margin-top: 15px;width: 20px;height: 20px;display: block;float: left;
+}
+.repw1{margin-top: 15px;float: left;
+}
+.cl{clear: both;
+}
+.login{margin-top: 15px;outline: none;border: none;border-radius: 5px;height: 40px;width: 300px;line-height: 40px;background-color:#2DABF9;
+        font-size: 20px;
+        color: cornsilk;
+}
+.regin{
+    margin-top: 15px;outline: none;border: none;border-radius: 5px;height: 40px;width: 300px;line-height: 40px;background-color:#2DABF9;
+        font-size: 20px;
+        color: cornsilk;
+}
+.box2{
+    width: 600px;height: 500px;position: relative;z-index:100;background-color: rgb(246, 246, 246);border: 2px solid red;margin-top: 100px; border-radius: 30px;margin-left: 30%;
+    display: none;
+}
+.box2 span{
+    float: left;font-size: 20px;display: block;width: 100px;text-align: right;margin-top: 30px;padding-left: 50px;
+}
+.box2 input{
+    width: 300px;height: 40px;line-height: 40px;border-radius: 5px;border: none;-webkit-appearance: none;outline: none;font-size: 20px;border: 1px solid brown;margin-top: 25px;
+}
+img{
+    width: 30px;height: 30  px;float: right;margin-right: 20px;margin-top: 15px;
+}
+.reg{
+    margin-left: 150px;background-color:#2DABF9 ;color: cornsilk;
+}
