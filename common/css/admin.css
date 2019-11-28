@@ -27,8 +27,8 @@ body{
         color: cornsilk;
 }
 .box2{
-    width: 600px;height: 500px;position: relative;z-index:100;background-color: rgb(246, 246, 246);border: 2px solid red;margin-top: 100px; border-radius: 30px;margin-left: 30%;
-    display: none;
+    width: 600px;height: 500px;position: relative;z-index:100;background-color: rgb(246, 246, 246);border: 2px solid red;margin-top: 200px; border-radius: 30px;
+    display: none;margin-left: auto;margin-right: auto;
 }
 .box2 span{
     float: left;font-size: 20px;display: block;width: 100px;text-align: right;margin-top: 30px;padding-left: 50px;
@@ -39,6 +39,6 @@ body{
 img{
     width: 30px;height: 30  px;float: right;margin-right: 20px;margin-top: 15px;
 }
-.reg{
+.getreg{
     margin-left: 150px;background-color:#2DABF9 ;color: cornsilk;
 }
